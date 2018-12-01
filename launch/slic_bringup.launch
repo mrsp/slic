@@ -1,0 +1,5 @@
+<launch>
+	<group ns="slic">
+	    <node pkg="slic" name="slic" type="slic"/>
+	</group>
+</launch>
